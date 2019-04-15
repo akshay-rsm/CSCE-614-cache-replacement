@@ -14,18 +14,8 @@ using namespace std;
 #define LONG_REFERENCE (MAX_COUNTER_VALUE - 3)	//Corresponds to intermediate re-reference interval
 
 ////////////////////////////////////////////////////////////////////////////////
-////////////////////////////////////////////////////////////////////////////////
-//                                                                            //
-// This file is distributed as part of the Cache Replacement Championship     //
-// workshop held in conjunction with ISCA'2010.                               //
-//                                                                            //
-//                                                                            //
-// Everyone is granted permission to copy, modify, and/or re-distribute       //
-// this software.                                                             //
-//                                                                            //
-// Please contact Aamer Jaleel <ajaleel@gmail.com> should you have any        //
-// questions                                                                  //
-//                                                                            //
+// Cache replacement policy                                                   //
+//  Author : Akshay RSM                                                       //
 ////////////////////////////////////////////////////////////////////////////////
 
 /*
